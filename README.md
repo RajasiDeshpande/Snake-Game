@@ -48,6 +48,3 @@ I interacted with ChatGPT to:
 - `pygame` library
 
 ---
-
-## 📂 File Structure
-
