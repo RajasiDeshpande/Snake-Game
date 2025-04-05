@@ -6,11 +6,6 @@ Welcome to my creative take on the classic **Snake Game**, built using **Python*
 
 ---
 
-## 👩‍💻 About Me
-
-I’m **Rajasi Deshpande**, a passionate 2nd-year B.Tech CSE student, double majoring in CSE at AITR and BS in Data Science from IIT Madras. I love exploring the world of development, and this project reflects how AI and code can go hand-in-hand to build fun and functional applications.
-
----
 
 ## ✨ Features
 
